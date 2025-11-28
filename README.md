@@ -128,7 +128,7 @@ app.get("*", sendApp);
 
 This ensures React routing works properly.
 
-📸 Screenshots
+### 📸 Screenshots
 
 🔹 Create Employee
 
